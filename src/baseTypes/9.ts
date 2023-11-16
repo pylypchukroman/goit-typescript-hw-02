@@ -29,7 +29,7 @@ const page2: Page = {
   title: 'Python or Js',
   likes: 5,
   accounts: ['Alex'],
-  status: 'close',
+  status: 'close'
 }
 
 export {};
